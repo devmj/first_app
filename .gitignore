@@ -15,8 +15,10 @@
 /log/*.log
 /tmp
 
+# Additionally...
 doc/
 *.swp
 *~
 .project
 .DS_Store
+
